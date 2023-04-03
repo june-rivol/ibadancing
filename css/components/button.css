@@ -1,0 +1,13 @@
+.button-black{
+	background-color: #620303;
+	padding: 10px 25px;
+	border-radius: 5px;
+	color: white;
+	font-family: century gothic, serif;
+	font-weight: bold;
+
+}
+.button-black a:hover{
+	color: #F7DB49;
+	transition: ease-in-out;
+}

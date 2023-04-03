@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	font-family: 'Century gothic', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: black;
+}
+h1,h2{
+	color: #730D18;
+	font-family: Broadway;
+}
+h3{
+	font-family: Broadway, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+a: hover{
+	color: #F7DB49;
+	transition: ease-in-out;
+}
+/*#730D18 color of demons affiche*/ 
